@@ -1,5 +1,3 @@
-# analise-satisfacao-passageiros
-
 # Drivers da Satisfação de Passageiros Aéreos
 
 Análise exploratória de dados para identificar os principais fatores que influenciam a satisfação de passageiros de uma companhia aérea, utilizando um dataset público do Kaggle com mais de 100.000 avaliações.
